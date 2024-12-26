@@ -8,15 +8,13 @@
 
 - 🌱 I’m currently working **React, .net core 8**
 
-- 👨‍💻 All of my projects are available at [https://shashiportfolio-7d92f.web.app/](https://shashiportfolio-7d92f.web.app/)
-
-- 📝 I regularly write articles on [[https://shashiportfolio-7d92f.web.app/](https://shashiportfolio-7d92f.web.app/)](https://shashikantportfolio.web.app/)
+- 👨‍💻 All of my projects are available at [https://shashikantportfolio.web.app/](https://shashikantportfolio.web.app/)
 
 - 💬 Ask me about **react, javascript, mvc, sql ,css**
 
 - 📫 How to reach me **kantshashi.sk8@gmail.com**
 
-- 📄 Know about my experiences [https://shashiportfolio-7d92f.web.app/Shashi_Kant_Resume.pdf](https://shashiportfolio-7d92f.web.app/Shashi_Kant_Resume.pdf)
+- 📄 Know about my experiences [https://shashikantportfolio.web.app/Shashi_Kant_Resume.pdf](https://shashikantportfolio.web.app/Shashi_Kant_Resume.pdf)
 
 - ⚡ Fun fact **I am the watchman of my society as i rarely sleep in night.**
 
