@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [Teen patti game](https://teenpatticasino-677b5.web.app/home)
 
-- 🌱 I’m currently learning **Anhular 14, .net core 6**
+- 🌱 I’m currently working **React, .net core 8**
 
 - 👨‍💻 All of my projects are available at [https://shashiportfolio-7d92f.web.app/](https://shashiportfolio-7d92f.web.app/)
 
-- 📝 I regularly write articles on [https://shashiportfolio-7d92f.web.app/](https://shashiportfolio-7d92f.web.app/)
+- 📝 I regularly write articles on [[https://shashiportfolio-7d92f.web.app/](https://shashiportfolio-7d92f.web.app/)](https://shashikantportfolio.web.app/)
 
 - 💬 Ask me about **react, javascript, mvc, sql ,css**
 
